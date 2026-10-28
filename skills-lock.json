@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "academic-paper-review": {
+      "source": "bytedance/deer-flow",
+      "sourceType": "github",
+      "skillPath": "skills/public/academic-paper-review/SKILL.md",
+      "computedHash": "ea1355279516468115f4e54c48bcfc20fd12ef6a67b48898f701ac8da5470fa4"
+    }
+  }
+}
